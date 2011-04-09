@@ -1,2 +1,1 @@
-# this is the second myfile in the master branch
-
+this is the corrected line after merge fixes
